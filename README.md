@@ -16,7 +16,17 @@
 
 <h2>Program walk-through:</h2>
 <h3>Notes</h3>
-Some assett images were too large. Though uploaded they use git lfs. Aditioanl
+Due to some images being exceeding the recommended size for published files the project was enabled with [git LFS](https://git-lfs.com)/
+Additionally they have also been saves as compressed PNG files
+
+File list is:
+- Assets/Materials/Textures/Back_Tex.png
+- Assets/Materials/Textures/Down_Tex.png
+- Assets/Materials/Textures/Front_Tex.png
+- Assets/Materials/Textures/Left_Tex.png
+- Assets/Materials/Textures/Right_Tex.png
+- Assets/Materials/Textures/Up_Tex.png
+- Assets/TextMesh Pro/Sprites/EmojiOne.png
 
 <h2>References:</h2>
 
